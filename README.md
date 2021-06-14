@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FritzZuhl
 - 👀 I’m interested in data science outside of neural networks. For example, XGBoost is my current focus.
 - 🌱 I’m currently learning XGBoost, advanced Python, non-SQL data languages and sports analytics.
-- 💞️ I’m looking to collaborate on perhaps projects involving sports analytics.
+- 💞️ I’m looking to collaborate on perhaps projects involving sports analytics or music streaming analytics.
 - 📫 How to reach me fritz.zuhl@zuhl.org
 
 <!---
